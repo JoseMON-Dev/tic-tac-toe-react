@@ -19,7 +19,7 @@ pnpm instalados en tu sistema antes de comenzar.
 2. Navega al directorio del proyecto:
 
    ```bash
-   cd tic-tac-toe-react-vite-pnpm
+   cd tic-tac-toe-react
    ```
 
 3. Instala las dependencias con pnpm:
