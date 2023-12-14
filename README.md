@@ -36,7 +36,7 @@ Ejecuta el siguiente comando para iniciar la aplicación en modo de desarrollo:
 pnpm run dev
 ```
 
-Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver el juego de Tic Tac Toe.
+Abre [http://localhost:3000](http://localhost:5173) en tu navegador para ver el juego de Tic Tac Toe.
 
 ## Construir para Producción
 
