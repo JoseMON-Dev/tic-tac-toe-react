@@ -1,8 +1,49 @@
-# React + Vite
+# Tic Tac Toe en React con Vite y pnpm
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un simple juego de Tic Tac Toe implementado en React con la configuración inicial proporcionada por Vite y utilizando pnpm como gestor de paquetes.
 
-Currently, two official plugins are available:
+## Requisitos Previos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+pnpm instalados en tu sistema antes de comenzar.
+
+- [pnpm](https://pnpm.io/)
+
+## Configuración del Proyecto
+
+1. Clona este repositorio:
+
+   ```bash
+   git clone https://github.com/tu-usuario/tic-tac-toe-react-vite-pnpm.git
+   ```
+
+2. Navega al directorio del proyecto:
+
+   ```bash
+   cd tic-tac-toe-react-vite-pnpm
+   ```
+
+3. Instala las dependencias con pnpm:
+
+   ```bash
+   pnpm install
+   ```
+
+## Ejecutar la Aplicación
+
+Ejecuta el siguiente comando para iniciar la aplicación en modo de desarrollo:
+
+```bash
+pnpm run dev
+```
+
+Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver el juego de Tic Tac Toe.
+
+## Construir para Producción
+
+Para construir la aplicación para producción, utiliza el siguiente comando:
+
+```bash
+pnpm build
+```
+
+Esto generará una carpeta `dist` con los archivos optimizados para producción.
